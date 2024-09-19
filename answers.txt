@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: It is an easy way to handle version control and organize changes in your code.
