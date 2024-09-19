@@ -5,3 +5,9 @@ Answer: It is an easy way to handle version control and organize changes in your
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Finance with the stock market and predicting data.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging takes the changes from one branch and combines them with another branch while preserving the history of the changes as separate branches. Rebasing combines the 
+history and treats it as a single branch.
+
